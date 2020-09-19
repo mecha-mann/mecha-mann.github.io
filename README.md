@@ -5,3 +5,5 @@
 ![pg4](/ch1/pg4.jpg)
 ![pg5](/ch1/pg5.jpg)
 ![pg6](/ch1/pg6.jpg)
+![pg6](/ch1/pg7.jpg)
+![pg6](/ch1/pg8.jpg)
